@@ -1,0 +1,117 @@
+commit 4b00bbb37449cdb7c9ec829a86106228a2dc2a30
+Merge: f6fc2bb e9711ab
+Author: Victoria20008 <vicalozap@iespoblenou.org>
+Date:   Fri Nov 27 18:32:25 2026 +0100
+
+    Merge pull request #2 from vicalozap-create/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit e9711abbae7b6708269ce74360f850fa130885f6
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Fri Nov 27 18:28:46 2026 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 19 +++++++++++++++++++
+ 1 file changed, 19 insertions(+)
+
+commit f6fc2bb4e9769a01a5ee70df8b6af19ddd109ed3
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Fri Nov 27 17:59:46 2026 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 90 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 90 insertions(+)
+
+commit 28ac20f28a792fc6ffc123cab55373c4c9a8e997
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Fri Nov 27 17:59:05 2026 +0100
+
+    Update Introduction of README.md
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 85a1d92385d86a94c518e4a6bd1fb7648ef5b513
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Fri Nov 27 17:51:27 2026 +0100
+
+    Merge add-license branch into main
+
+ README.md | 14 ++++++++++++++
+ 1 file changed, 14 insertions(+)
+
+commit 2ebbf53ee04d19ae883b72bc957718285ecdf3c8
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Fri Nov 27 17:49:47 2026 +0100
+
+    Add feature list table to README
+
+ README.md | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit 503e22f63d07753696ba86539a283f1f9a6f368b
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Fri Nov 27 17:48:10 2026 +0100
+
+    Add project logo to README
+
+ README.md       |   3 ++-
+ images/logo.png | Bin 0 -> 36306 bytes
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit 4296ec8e57341645ca747fd8f9d8f6b611e1a142
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Fri Nov 27 17:45:09 2026 +0100
+
+    Add sections to README
+
+ README.md | 22 +++++++++++++++++++++-
+ 1 file changed, 21 insertions(+), 1 deletion(-)
+
+commit e91a38a9048a030991a4122987fa42f6ea9756ce
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Fri Nov 27 17:44:30 2026 +0100
+
+    Add hyperlinks to README
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit e38c80cabef2080da654e0a605e13c6c0b4e60ba
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Fri Nov 27 17:43:01 2026 +0100
+
+    Add Table of Contents to README
+
+ README.md | 10 +++++++++-
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+
+commit 3ced3eca80d7fd22cc45eae952c07bbfe8e4c1cc
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Fri Nov 27 17:41:06 2026 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit b171c3de206ed4aa3b08341740050e74f42a3163
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Fri Nov 27 17:27:07 2026 +0100
+
+    Add README with project introduction
+
+ README.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 370d1360a2b89823a84da16b518a7acf936746d3
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Fri Nov 27 17:25:29 2026 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
