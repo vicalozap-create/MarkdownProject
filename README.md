@@ -11,9 +11,11 @@ Aquest projecte serveix per practicar Git i Markdown. Consulta la [Git Documenta
 - [License](#license)
 
 ## Introduction
+
 ![Project Logo](images/logo.png) 
 
 Aquest projecte mostra el flux de treball amb Git i GitHub.
+Aquesta és una línia nova.
 
 ## Features
 
